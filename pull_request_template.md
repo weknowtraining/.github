@@ -25,4 +25,4 @@ Any other changes that came along in this PR?
 
 # Testing Notes
 
-Anything that should get tested explicitly or workflows that may be affected and should be tested.
+- [ ] Things to test
