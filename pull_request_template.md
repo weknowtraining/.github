@@ -2,6 +2,11 @@
 
 Link to and explain the relationship with any PRs in other repos. Use GitHub autolink references: `weknowtraining/venom#1234`
 
+- If this PR actually depends on the other, use `Depends on weknowtraining/venom#1234`
+- If this PR relates to another PR, but must be merged first, use `Relates to weknowtraining/venom#1234`
+
+DO NOT DEVIATE FROM THE FORMAT.
+
 [More information on autolink references](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/autolinked-references-and-urls)
 
 Common situations that should be noted:
