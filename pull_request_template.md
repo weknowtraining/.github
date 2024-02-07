@@ -31,3 +31,7 @@ Any other changes that came along in this PR?
 # Testing Notes
 
 - [ ] Things to test
+
+# Screenshots/Demo Video
+
+Anything fancy goes here
